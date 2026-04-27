@@ -13,5 +13,5 @@ I would improve the Gant Chart included at the end to make it easier to read. It
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 The users needs are what drive the system design. Without considering the users needs, the software might function, but the software wouldn't solve the actual problems that were identified by those users. It would be wasted effort. In particular, I focused on the functions of the students who would be using the applicaiton, and the administrative team that will be managing those users.
 
-#How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+# How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 I considered the users needs and started doing research on what systems and services were available, accessible, and the least difficult to impliment for the customers applicaiton. Technology changes rapidly, so it's easy to overlook new developments and use what you already know, but I prefer to look for the best solutions at the given time. What worked yesterday may be obsolete today in the software world.
